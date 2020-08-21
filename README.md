@@ -2,6 +2,7 @@
 
 
 1) EVA5Session5_1.ipynb
+
    The basic structure was set
    Made sure the code is working
    parameters = 6.3M
@@ -11,6 +12,7 @@
    
    
 2) EVA5Session5_code2.ipynb
+
    Set the basic skeleton correct
    Kept maxpooling in correct position
    Added GAP
@@ -23,6 +25,7 @@
    The model needs to be pushed further to hit 94% accuracy
    
 3) EVA5Session5_code3.ipynb
+
    Added Batch normalization
    Added dropout(tried with different values, but attained target with value 0.02)
    parameters = 9.6k
@@ -31,7 +34,8 @@
    Good model
    Needs to be pushed further to get accuracy above 94% continuously
    
-4) EVA5Session5_code4.ipynb   
+4) EVA5Session5_code4.ipynb 
+
    Added data augmentation - Rotation and Color Jitter
    parameters = 9.6k
    max train accuracy: 99.19(14th epoch)
